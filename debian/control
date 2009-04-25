@@ -1,0 +1,12 @@
+Source: emorrp1
+Section: metapackages
+Priority: optional
+Maintainer: Philip Morrell <ubuntu.emorrp1@mamber.net>
+Build-Depends: debhelper (>= 7)
+Standards-Version: 3.7.3
+
+Package: emorrp1
+Architecture: any
+Depends: bash
+Description: Custom package to install all my needed packages after an install.
+ Custom package to install all my needed packages after an install.
