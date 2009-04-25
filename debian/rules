@@ -27,7 +27,7 @@ build-stamp: configure-stamp
 	dh_testdir
 
 	# Add here commands to compile the package.
-	$(MAKE)
+	#$(MAKE)
 	#docbook-to-man debian/emorrp1.sgml > emorrp1.1
 
 	touch $@
@@ -49,7 +49,7 @@ install: build
 	dh_installdirs
 
 	# Add here commands to install the package into debian/emorrp1.
-	$(MAKE) DESTDIR=$(CURDIR)/debian/emorrp1 install
+	#$(MAKE) DESTDIR=$(CURDIR)/debian/emorrp1 install
 
 
 # Build architecture-independent files here.
