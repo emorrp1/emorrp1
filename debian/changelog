@@ -1,3 +1,10 @@
+emorrp1 (0.2) intrepid; urgency=low
+
+  * adding remaining progs
+  * skype is recommends, since is in medibuntu
+
+ -- Philip Morrell <ubuntu.emorrp1@mamber.net>  Sun,  26 Apr 2009 09:46:50 +0100
+
 emorrp1 (0.1.2) intrepid; urgency=low
 
   * adding progs with config files
