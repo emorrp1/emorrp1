@@ -7,6 +7,6 @@ Standards-Version: 3.7.3
 
 Package: emorrp1
 Architecture: any
-Depends: bash
+Depends: vim, newsbeuter, screen, pal, mp3blaster, gitk, mintupload, dput, gnupg
 Description: Custom package to install all my needed packages after an install.
  Custom package to install all my needed packages after an install.
