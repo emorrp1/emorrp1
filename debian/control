@@ -7,7 +7,7 @@ Standards-Version: 3.7.3
 
 Package: emorrp1
 Architecture: any
-Depends: vim, newsbeuter, screen, pal, mp3blaster, gitk, mintupload, dput, gnupg, openssh-server, imagemagick, lilypond, timidity, sox, libsox-fmt-all, virtualbox, gnucash, openoffice.org, wine, mozplugger, firefox, glade-gnome-3, build-essential, python-sqlite, python-elixir, dh-make, dupload, dput, devscripts, geda, adobe-flashplugin, fdupes, soundconverter
+Depends: vim, newsbeuter, screen, pal, mp3blaster, gitk, mintupload, dput, gnupg, openssh-server, imagemagick, lilypond, timidity, sox, libsox-fmt-all, virtualbox, gnucash, openoffice.org, wine, mozplugger, firefox, glade-gnome-3, build-essential, python-sqlite, python-elixir, dh-make, dupload, dput, devscripts, geda, adobe-flashplugin, fdupes, soundconverter, sgt-puzzles
 Recommends: skype
 Description: Custom package to install all my needed packages after an install.
  Custom package to install all my needed packages after an install.
